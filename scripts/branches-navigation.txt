@@ -1,0 +1,22 @@
+# Navigation 仓库分支配置文件
+# 格式：每行一个分支名，# 开头的行为注释
+# 建议按重要性排序
+
+# ========== 主分支（必须配置）==========
+master
+development
+
+# ========== 活跃开发分支 ==========
+KaiTest
+lfs_test
+
+# ========== 发布分支（可选配置）==========
+# release/25w14
+# release/25w17
+# release/25w17_1
+# release/25w30
+
+# ========== 测试分支（通常不需要）==========
+# test
+# test_hangup
+# test_relnote

@@ -1,0 +1,3 @@
+# 最小分支配置 - 仅主分支
+master
+development
